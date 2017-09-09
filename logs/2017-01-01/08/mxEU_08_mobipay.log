@@ -1,0 +1,170 @@
+SEND********************************************************************************
+Time:            08:31:24
+IP:              62.80.169.66
+Method:          POST
+REQUEST:         api/lwl/app.php
+REFERER:         
+SCRIPT_FILENAME: /opt/mwallet/vkdit/mobipay.ua/sites/sit.api.mwallet/api/lwl/app.php
+DATA: 
+<monexyApi type="balans-bcode" mtime="148541228441848">
+ <Auth>
+  <ApiName>wpassorg</ApiName>
+  <ApiHash>a5f3b4c52892ab8595702f23af613b82f802968b</ApiHash>
+  <ApiLogin>380980818305</ApiLogin>
+  <ApiBCode>3d7778981b8491210e4cdfc27f33bb06</ApiBCode>
+ </Auth>
+</monexyApi>
+
+GET: 
+[]
+
+POST: 
+[]
+
+*************************************************************************************
+
+GET********************************************************************************
+Time:            08:31:24
+IP:              62.80.169.66
+Method:          POST
+REQUEST:         api/lwl/app.php
+REFERER:         
+SCRIPT_FILENAME: /opt/mwallet/vkdit/mobipay.ua/sites/sit.api.mwallet/api/lwl/app.php
+DATA: 
+
+
+
+
+
+			<monexyApi type="balans-bcode" mtime="148541235704743">
+				<Auth>
+					<ApiName>wpassorg</ApiName>
+					<ApiHash>4da20c99a83b856a8017f2bc2145a304e0150ff1</ApiHash>
+					<ApiHashFull></ApiHashFull>
+				</Auth>
+				<Error ErrorId="0">
+					<ErrorDesc></ErrorDesc>
+				</Error>
+				<Balans>
+					<Currency id="USD" type="20">
+						<Amount>0.0000</Amount>
+					</Currency>
+					<Currency id="EUR" type="23">
+						<Amount>771.0000</Amount>
+					</Currency>
+					<Currency id="INR" type="77">
+						<Amount>84.0000</Amount>
+					</Currency>
+					<Currency id="DAR" type="78">
+						<Amount>0.0000</Amount>
+					</Currency>
+					<Currency id="грн" type="84">
+						<Amount>7568.0000</Amount>
+					</Currency>
+					<Currency id="BNS" type="85">
+						<Amount>10000.0000</Amount>
+					</Currency>
+					<Currency id="BON" type="89">
+						<Amount>994025.0000</Amount>
+					</Currency>
+				</Balans>
+				<Discount>
+						<Type>1</Type>
+						<Name>Silver</Name>
+				</Discount>
+			</monexyApi>
+			
+
+GET: 
+[]
+
+POST: 
+[]
+
+*************************************************************************************
+
+SEND********************************************************************************
+Time:            08:31:24
+IP:              62.80.169.66
+Method:          POST
+REQUEST:         api/lwl/app.php
+REFERER:         
+SCRIPT_FILENAME: /opt/mwallet/vkdit/mobipay.ua/sites/sit.api.mwallet/api/lwl/app.php
+DATA: 
+<monexyApi type="balans-bcode" mtime="148541228471413">
+ <Auth>
+  <ApiName>wpassorg</ApiName>
+  <ApiHash>0dc3590976c4e12e9e1d7120d3438c5da91840b3</ApiHash>
+  <ApiLogin>380980818305</ApiLogin>
+  <ApiBCode>3d7778981b8491210e4cdfc27f33bb06</ApiBCode>
+ </Auth>
+</monexyApi>
+
+GET: 
+[]
+
+POST: 
+[]
+
+*************************************************************************************
+
+GET********************************************************************************
+Time:            08:31:24
+IP:              62.80.169.66
+Method:          POST
+REQUEST:         api/lwl/app.php
+REFERER:         
+SCRIPT_FILENAME: /opt/mwallet/vkdit/mobipay.ua/sites/sit.api.mwallet/api/lwl/app.php
+DATA: 
+
+
+
+
+
+			<monexyApi type="balans-bcode" mtime="148541235709402">
+				<Auth>
+					<ApiName>wpassorg</ApiName>
+					<ApiHash>4f58661779a0459a62609c92819b73289a4461ed</ApiHash>
+					<ApiHashFull></ApiHashFull>
+				</Auth>
+				<Error ErrorId="0">
+					<ErrorDesc></ErrorDesc>
+				</Error>
+				<Balans>
+					<Currency id="USD" type="20">
+						<Amount>0.0000</Amount>
+					</Currency>
+					<Currency id="EUR" type="23">
+						<Amount>771.0000</Amount>
+					</Currency>
+					<Currency id="INR" type="77">
+						<Amount>84.0000</Amount>
+					</Currency>
+					<Currency id="DAR" type="78">
+						<Amount>0.0000</Amount>
+					</Currency>
+					<Currency id="грн" type="84">
+						<Amount>7568.0000</Amount>
+					</Currency>
+					<Currency id="BNS" type="85">
+						<Amount>10000.0000</Amount>
+					</Currency>
+					<Currency id="BON" type="89">
+						<Amount>994025.0000</Amount>
+					</Currency>
+				</Balans>
+				<Discount>
+						<Type>1</Type>
+						<Name>Silver</Name>
+				</Discount>
+			</monexyApi>
+			
+
+GET: 
+[]
+
+POST: 
+[]
+
+*************************************************************************************
+
